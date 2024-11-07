@@ -49,9 +49,7 @@ A machine learning project to classify types of plastic waste using image recogn
 ![Camera Classification](https://github.com/nkxtyy/Plastic-waste-image-classification/blob/main/Screenshot%20(499).png)
 
 
-## 🔮 Future Work
-- 🔹 **Enhance Model Accuracy:** Train on a larger dataset to improve accuracy.
-- 🔹 **Expand Classification Scope:** Include classification of other waste materials.
+
 
 ## 🔮 Future Work
 - 🔹 **Enhance Model Accuracy:** Train on a larger dataset to improve accuracy.
