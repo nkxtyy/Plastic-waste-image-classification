@@ -1,2 +1,54 @@
-# Plastic-waste-image-classification
-A project to classify plastic waste images using machine learning. It leverages CNNs to identify different plastic types, supporting automation in recycling and waste management. Includes data preprocessing, model training, and scripts for deployment.
+# Plastic Waste Image Classification
+
+A machine learning project to classify types of plastic waste using image recognition. This project aims to assist in automating the recycling process by accurately identifying various plastic types for better sorting and waste management.
+
+## Features
+- **Web Interface**: Upload an image through a website to classify the type of plastic waste.
+- **Camera-Based Classification**: Uses OpenCV to capture live camera images and classify them in real-time.
+
+## Technologies Used
+- **Machine Learning**: Convolutional Neural Networks (CNNs) for image classification.
+- **OpenCV**: For camera integration and real-time classification.
+- **Flask/Django**: (Choose one) Backend framework to serve the web interface.
+- **Frontend**: HTML/CSS and JavaScript for a simple user-friendly UI.
+
+## Installation
+
+1. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+2. **Run the server:**
+   ```bash
+   python app.py
+
+
+## 🚀 Usage
+
+1. **🌐 Web Interface:**
+   - Go to `http://localhost:5000` to open the web app.
+   - Upload an image of plastic waste to classify it.
+
+2. **📷 Camera-Based Classification:**
+   - Run the OpenCV script:
+     ```bash
+     python camera_classification.py
+     ```
+   - This will open the camera and classify plastic types in real-time.
+
+## 📸 Output Examples
+
+### 1. 🌐 Web Interface - Image Upload for Classification
+
+![Image Upload](path/to/your/image-upload-screenshot.png)
+
+### 2. 📷 Camera-Based Classification using OpenCV
+
+![Camera Classification](path/to/your/camera-classification-screenshot.png)
+
+## 🔮 Future Work
+- 🔹 **Enhance Model Accuracy:** Train on a larger dataset to improve accuracy.
+- 🔹 **Expand Classification Scope:** Include classification of other waste materials.
+
+
+
