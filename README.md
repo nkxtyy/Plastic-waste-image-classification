@@ -40,11 +40,18 @@ A machine learning project to classify types of plastic waste using image recogn
 
 ### 1. 🌐 Web Interface - Image Upload for Classification
 
-![Image Upload](path/to/your/image-upload-screenshot.png)
+![Image Upload](https://github.com/nkxtyy/Plastic-waste-image-classification/blob/main/Screenshot%20(508).png)
+![Image Upload](https://github.com/nkxtyy/Plastic-waste-image-classification/blob/main/Screenshot%20(506).png)
 
 ### 2. 📷 Camera-Based Classification using OpenCV
 
-![Camera Classification](path/to/your/camera-classification-screenshot.png)
+![Camera Classification](https://github.com/nkxtyy/Plastic-waste-image-classification/blob/main/Screenshot%20(501).png)
+![Camera Classification](https://github.com/nkxtyy/Plastic-waste-image-classification/blob/main/Screenshot%20(499).png)
+
+
+## 🔮 Future Work
+- 🔹 **Enhance Model Accuracy:** Train on a larger dataset to improve accuracy.
+- 🔹 **Expand Classification Scope:** Include classification of other waste materials.
 
 ## 🔮 Future Work
 - 🔹 **Enhance Model Accuracy:** Train on a larger dataset to improve accuracy.
