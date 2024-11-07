@@ -9,7 +9,7 @@ A machine learning project to classify types of plastic waste using image recogn
 ## Technologies Used
 - **Machine Learning**: Convolutional Neural Networks (CNNs) for image classification.
 - **OpenCV**: For camera integration and real-time classification.
-- **Flask/Django**: (Choose one) Backend framework to serve the web interface.
+- **Flask**: Backend framework to serve the web interface.
 - **Frontend**: HTML/CSS and JavaScript for a simple user-friendly UI.
 
 ## Installation
@@ -32,7 +32,7 @@ A machine learning project to classify types of plastic waste using image recogn
 2. **📷 Camera-Based Classification:**
    - Run the OpenCV script:
      ```bash
-     python camera_classification.py
+     python plasticapp1.py
      ```
    - This will open the camera and classify plastic types in real-time.
 
